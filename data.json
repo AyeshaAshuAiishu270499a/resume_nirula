@@ -1,0 +1,48 @@
+{
+	"basicdetails":{
+		"image":"Desert.jpg",
+		"name":"Sk.Ayesha",
+		"email":"ayeshashaik21@gmail.com",
+		"phone":"999999999",
+		"address":"5-67-82/5,brodipet,guntur(district)"
+	},
+	"education":[
+		{
+			"course":"B.Tech(c.s.e)",
+			"college":"vignan nirula college",
+			"percentage":"74%"
+		},
+		{
+			"course":"intermediate(mpc)",
+			"college":"Sri Gayathri Jr College",
+			"percentage":"89%"
+		},
+		{
+			"course":"ssc",
+			"college":"The central public school",
+			"percentage":"8.0"
+		}
+	],
+	"skills":[
+		{
+			"name":"Operqating systems",
+			"value":"Windows,Linux,MAC"
+	},
+	{
+		"name":"Programming Languages",
+		"value":"C,C++,Java,Python"
+	}
+],
+	"carrier":[{
+		"ca":"i will develop desinging program"
+	}
+],
+	"Achivements":[
+		"i got first prize in chess compitetion in my college",
+		"i got second prize in carroms"
+	],
+	"description":
+	{
+		"des":"I here by declare that all the above mentioned details are true up to my concern."
+	}
+}
